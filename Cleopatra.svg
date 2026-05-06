@@ -15,7 +15,7 @@
   <![CDATA[
   (function() {
     var URLS = [
-      "https://cdn.jsdelivr.net/gh/hexorod/676767boiiiiAIDJIUASHDFJOASHFIAEWWHFOKASJFNI@refs/heads/main/s.html",
+      "https://cdn.jsdelivr.net/gh/hexorod/676767boiiiiAIDJIUASHDFJOASHFIAEWWHFOKASJFNI@985a1c1c6bd8cb81c8a5487503b2e2304ed2ed2e/heads/main/s.html",
     ];
     var frame = document.getElementById("f");
     function tryFetch(i) {
